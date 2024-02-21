@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/freecodecamp-build-random-quote-generator/static/css/main.a7d08cb2.css",
+    "main.js": "/freecodecamp-build-random-quote-generator/static/js/main.8013bc03.js",
+    "index.html": "/freecodecamp-build-random-quote-generator/index.html",
+    "main.a7d08cb2.css.map": "/freecodecamp-build-random-quote-generator/static/css/main.a7d08cb2.css.map",
+    "main.8013bc03.js.map": "/freecodecamp-build-random-quote-generator/static/js/main.8013bc03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7d08cb2.css",
+    "static/js/main.8013bc03.js"
+  ]
+}
